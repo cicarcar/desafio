@@ -1,1 +1,1 @@
-Teste para os desafios hora da prática do curso de Git e Github.
+Teste para os desafios hora da prática: curso de Git e Github.
