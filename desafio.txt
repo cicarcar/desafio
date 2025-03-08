@@ -1,1 +1,5 @@
 Teste para os desafios hora da prática: curso de Git e Github.
+
+O primeiro commit foi para adicionar esse arquivo.
+
+O segundo commit alterou o conteúdo da primeira frase.
