@@ -6,4 +6,6 @@ O segundo commit alterou o conteúdo da primeira frase.
 
 Essa linha é para testar conflito. Foi realizado um commit no repositório remoto e está sendo feito um no repositório local também.
 
+Testando gitignore.
+
 
